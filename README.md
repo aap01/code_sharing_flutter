@@ -8,3 +8,10 @@ This is an open source project that aims towards solving challenges, that arise 
  - Maintain common dependencies as well as project specific dependencies
  - Establish a connection between the common features and project specific features at minimum effort
  - Easily find and reuse already developed common features at minimum effort
+ 
+## Goals
+ - Divide the challenges into smaller pieces
+ - Create a morphology for these small challenges
+ - Documenting the approaches to solve the small challenges
+ - Provide code examples for better understanding of such approaches
+ - Thus solving the challenges `without reinventing the wheel`
