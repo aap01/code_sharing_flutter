@@ -1,6 +1,6 @@
 # Code Sharing Flutter
 
-This is an open source project that aims towards solving challenges, that arise from developing and maintaining multiple projects of similar domain; through discussion and concrete examples. These examples will contain `flutter` and `dart` code.
+This is an open source project that aims towards solving challenges, that arise in the process of developing and maintaining multiple projects of similar domain; through discussion and concrete examples. These examples will contain `flutter` and `dart` code.
 
 ## What challenges are we talking about?
  - Identify common features among several projects
