@@ -7,4 +7,4 @@ This is an open source project that aims towards solving challenges, that arise 
  - Develop these features in a plug and play fashion while keeping them highly extensible
  - Maintain common dependencies as well as project specific dependencies
  - Establish a connection between the common features and project specific features at minimum effort
- - Search and find the already developed common features at minimum effort
+ - Easily find and reuse already developed common features at minimum effort
