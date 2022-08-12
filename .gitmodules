@@ -1,0 +1,3 @@
+[submodule "base_project"]
+	path = base_project
+	url = https://github.com/aap01/cloud_photo_gallery.git
