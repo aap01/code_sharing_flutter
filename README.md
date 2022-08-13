@@ -28,6 +28,10 @@ Now, let's add `Cloud Photo Gallery` as a [git submodule](https://git-scm.com/bo
 Now run this command to populate the contents of `base_project` from the `scape-goat` branch of `Cloud Photo Gallery`.
 
 ```bash
+# .-->|-->base_project(@cloud_photo_gallery@scape-goat)
+#     |-->README.md
+#     |-->License
+
 git submodule update --init
 cd base_project
 git fetch && git switch scape-goat
