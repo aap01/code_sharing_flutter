@@ -23,9 +23,9 @@ Let's exploit a "scape goat" to try our ideas on it.
 The scape goat project is [Cloud Photo Gallery](https://github.com/aap01/cloud_photo_gallery/tree/scape-goat).
 
 For a clear picture of the context, have a look at the [README.md](https://github.com/aap01/cloud_photo_gallery/tree/scape-goat) of `Cloud Photo Gallery`.
-Now, let's add `Cloud Photo Gallery` as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) and configure [base_project](/base_project) directory.
+Now, let's add `Cloud Photo Gallery` as a [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) to configure `base_project` directory.
 
-Now run this command to populate the contents of [base_project](/base_project) from the `scape-goat` branch of `Cloud Photo Gallery`.
+Now run this command to populate the contents of `base_project` from the `scape-goat` branch of `Cloud Photo Gallery`.
 
 ```bash
 git submodule update --init
@@ -34,5 +34,5 @@ git fetch && git switch scape-goat
 cd ..
 ```
 
-**Note: You might want go through `git submodule` commands.**
+**Note: You might want go through [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) commands.**
 
